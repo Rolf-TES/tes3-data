@@ -1,4 +1,4 @@
-List of all creature IDs, according to Construction Set, from Morrowind, Tribunal and Bloodmoon.
+List of all creature IDs, according to Construction Set, from Morrowind, Tribunal and Bloodmoon. So that others do not find it overwhelming to search for and write down many names.
 
 Advertisings:
 
