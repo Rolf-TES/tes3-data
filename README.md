@@ -2,6 +2,6 @@
 > Official plugins not included.
 #
 
-```Ingredients``` List of Morrowind, Tribunal and Bloodmoon ingredient IDs, name, weight, value and effects, according to Construction Set.
+```Ingredients``` List of ingredient IDs, name, weight, value and effects, according to Construction Set.
 
-```Creatures``` *WIP.*
+```Creatures``` List of creature IDs. *WIP.*
