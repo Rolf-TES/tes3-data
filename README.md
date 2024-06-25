@@ -1,5 +1,5 @@
-The purpose is to list all IDs and their data from Morrowind, Tribunal and Bloodmoon. So that others do not have to search and type a lot. Contains ID columns for Morrowind and OpenMW/TES3MP.
+Lists all Morrowind, Tribunal and Bloodmoon IDs and data to reduce search and typing effort. Includes Morrowind and OpenMW/TES3MP ID columns.
 
--- Ingredients: List of all ingredient IDs, according to Construction Set, from Morrowind, Tribunal and Bloodmoon.
+-- Ingredients: List of Morrowind, Tribunal and Bloodmoon ingredient IDs, name, weight and value, according to Construction Set.
 
--- Creatures: List of all creature IDs, according to Construction Set, from Morrowind, Tribunal and Bloodmoon. Creatures already dead are not included.
+-- Creatures: WIP.
