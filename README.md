@@ -4,4 +4,4 @@
 
 ```Ingredients``` List of ingredient IDs, name, weight, value and effects, according to Construction Set.
 
-```Creatures``` List of creature IDs. *WIP.*
+```Creatures``` List of creature IDs, name, type and level, according to Construction Set. Dead creatures not included.
