@@ -1,33 +1,33 @@
-Morrowind,OpenMW/TES3MP,Name,Weight,Value,Effect 1,Effect 2,Effect 3,Effect 4,
-food_kwama_egg_01,food_kwama_egg_01,Small Kwama Egg,0.5,1,Restore Fatigue,,,,
-food_kwama_egg_02,food_kwama_egg_02,Large Kwama Egg,2.0,2,Restore Fatigue,Paralyze,Frost Shield,Fortify Health,
-ingred_6th_corprusmeat_01,ingred_6th_corprusmeat_01,Large Wrapped Corprusmeat,1.0,0,Drain Fatigue,Drain Health,Drain Magicka,,
-ingred_6th_corprusmeat_02,ingred_6th_corprusmeat_02,Small Wrapped Corprusmeat,0.2,0,Drain Fatigue,Drain Health,Drain Magicka,,
-ingred_6th_corprusmeat_03,ingred_6th_corprusmeat_03,Medium Wrapped Corprusmeat,0.5,0,Drain Fatigue,Drain Health,Drain Magicka,,
-ingred_6th_corprusmeat_04,ingred_6th_corprusmeat_04,Wrapped Corprusmeat Hunk,0.0,0,Drain Fatigue,Drain Health,Drain Magicka,,
-ingred_6th_corprusmeat_05,ingred_6th_corprusmeat_05,Large Corprusmeat Hunk,1.0,0,Drain Fatigue,Drain Health,Drain Magicka,,
-ingred_6th_corprusmeat_06,ingred_6th_corprusmeat_06,Medium Corprusmeat Hunk,0.5,0,Drain Fatigue,Drain Health,Drain Magicka,,
-ingred_6th_corprusmeat_07,ingred_6th_corprusmeat_07,Small Corprusmeat Hunk,0.2,0,Drain Fatigue,Drain Health,Drain Magicka,,
-ingred_adamantium_ore_01,ingred_adamantium_ore_01,Adamantium Ore,50.0,300,Burden,Restore Magicka,Poison,Reflect,
-ingred_alit_hide_01,ingred_alit_hide_01,Alit Hide,1.0,5,Drain Attribute,Resist Poison,Telekinesis,Detect Animal,
-ingred_ash_salts_01,ingred_ash_salts_01,Ash Salts,0.1,25,Drain Attribute,Resist Magicka,Cure Blight Disease,Resist Magicka,
-ingred_ash_yam_01,ingred_ash_yam_01,Ash Yam,0.5,1,Fortify Attribute,Fortify Attribute,Resist Common Disease,Detect Key,
-ingred_bc_ampoule_pod,ingred_bc_ampoule_pod,Ampoule Pod,0.1,2,Water Walking,Paralyze,Detect Animal,Drain Attribute,
-ingred_bc_bungler's_bane,ingred_bc_bungler's_bane,Bungler's Bane,0.5,1,Drain Attribute,Drain Attribute,Dispel,Drain Attribute,
-ingred_bc_coda_flower,ingred_bc_coda_flower,Coda Flower,0.1,23,Drain Attribute,Levitate,Drain Attribute,Drain Health,
-ingred_bc_hypha_facia,ingred_bc_hypha_facia,Hypha Facia,0.1,1,Drain Attribute,Drain Attribute,Drain Fatigue,Detect Enchantment,
-ingred_bc_spore_pod,ingred_bc_spore_pod,Spore Pod,0.1,1,Drain Attribute,Drain Fatigue,Detect Key,Paralyze,
-ingred_bear_pelt,ingred_bear_pelt,Bear Pelt,1.0,2,Drain Fatigue,Fortify Attribute,Resist Common Disease,Night Eye,
-ingred_belladonna_01,ingred_belladonna_01,Ripened Belladonna Berries,0.1,5,Resist Magicka,Restore Magicka,Fortify Magicka,Drain Magicka,
-ingred_belladonna_02,ingred_belladonna_02,Unripened Belladonna Berries,0.1,5,Resist Magicka,Restore Magicka,Fortify Magicka,Drain Magicka,
-ingred_bittergreen_petals_01,ingred_bittergreen_petals_01,Bittergreen Petals,0.1,5,Restore Attribute,Invisibility,Drain Attribute,Drain Magicka,
-ingred_black_anther_01,ingred_black_anther_01,Black Anther,0.1,2,Drain Attribute,Resist Fire,Drain Attribute,Light,
-ingred_black_lichen_01,ingred_black_lichen_01,Black Lichen,0.1,2,Drain Attribute,Resist Frost,Drain Attribute,Cure Poison,
-ingred_bloat_01,ingred_bloat_01,Bloat,0.1,5,Drain Magicka,Fortify Attribute,Fortify Attribute,Detect Animal,
-ingred_blood_innocent_unique,ingred_blood_innocent_unique,Blood of an Innocent,0.1,25,Drain Attribute,Light,Cure Common Disease,Drain Magicka,
-ingred_boar_leather,ingred_boar_leather,Bristleback Leather,1.0,2,Blind,Frost Damage,Resist Frost,Recall,
-ingred_bonemeal_01,ingred_bonemeal_01,Bonemeal,0.2,2,Restore Attribute,Telekinesis,Drain Fatigue,Drain Attribute,
-ingred_bread_01,ingred_bread_01,Bread,0.2,1,Restore Fatigue,,,,
+Morrowind,OpenMW/TES3MP,Name,Weight,Value,Effect 1,Effect 2,Effect 3,Effect 4
+food_kwama_egg_01,food_kwama_egg_01,Small Kwama Egg,0.5,1,Restore Fatigue
+food_kwama_egg_02,food_kwama_egg_02,Large Kwama Egg,2.0,2,Restore Fatigue,Paralyze,Frost Shield,Fortify Health
+ingred_6th_corprusmeat_01,ingred_6th_corprusmeat_01,Large Wrapped Corprusmeat,1.0,0,Drain Fatigue,Drain Health,Drain Magicka
+ingred_6th_corprusmeat_02,ingred_6th_corprusmeat_02,Small Wrapped Corprusmeat,0.2,0,Drain Fatigue,Drain Health,Drain Magicka
+ingred_6th_corprusmeat_03,ingred_6th_corprusmeat_03,Medium Wrapped Corprusmeat,0.5,0,Drain Fatigue,Drain Health,Drain Magicka
+ingred_6th_corprusmeat_04,ingred_6th_corprusmeat_04,Wrapped Corprusmeat Hunk,0.0,0,Drain Fatigue,Drain Health,Drain Magicka
+ingred_6th_corprusmeat_05,ingred_6th_corprusmeat_05,Large Corprusmeat Hunk,1.0,0,Drain Fatigue,Drain Health,Drain Magicka
+ingred_6th_corprusmeat_06,ingred_6th_corprusmeat_06,Medium Corprusmeat Hunk,0.5,0,Drain Fatigue,Drain Health,Drain Magicka
+ingred_6th_corprusmeat_07,ingred_6th_corprusmeat_07,Small Corprusmeat Hunk,0.2,0,Drain Fatigue,Drain Health,Drain Magicka
+ingred_adamantium_ore_01,ingred_adamantium_ore_01,Adamantium Ore,50.0,300,Burden,Restore Magicka,Poison,Reflect
+ingred_alit_hide_01,ingred_alit_hide_01,Alit Hide,1.0,5,Drain Attribute,Resist Poison,Telekinesis,Detect Animal
+ingred_ash_salts_01,ingred_ash_salts_01,Ash Salts,0.1,25,Drain Attribute,Resist Magicka,Cure Blight Disease,Resist Magicka
+ingred_ash_yam_01,ingred_ash_yam_01,Ash Yam,0.5,1,Fortify Attribute,Fortify Attribute,Resist Common Disease,Detect Key
+ingred_bc_ampoule_pod,ingred_bc_ampoule_pod,Ampoule Pod,0.1,2,Water Walking,Paralyze,Detect Animal,Drain Attribute
+ingred_bc_bungler's_bane,ingred_bc_bungler's_bane,Bungler's Bane,0.5,1,Drain Attribute,Drain Attribute,Dispel,Drain Attribute
+ingred_bc_coda_flower,ingred_bc_coda_flower,Coda Flower,0.1,23,Drain Attribute,Levitate,Drain Attribute,Drain Health
+ingred_bc_hypha_facia,ingred_bc_hypha_facia,Hypha Facia,0.1,1,Drain Attribute,Drain Attribute,Drain Fatigue,Detect Enchantment
+ingred_bc_spore_pod,ingred_bc_spore_pod,Spore Pod,0.1,1,Drain Attribute,Drain Fatigue,Detect Key,Paralyze
+ingred_bear_pelt,ingred_bear_pelt,Bear Pelt,1.0,2,Drain Fatigue,Fortify Attribute,Resist Common Disease,Night Eye
+ingred_belladonna_01,ingred_belladonna_01,Ripened Belladonna Berries,0.1,5,Resist Magicka,Restore Magicka,Fortify Magicka,Drain Magicka
+ingred_belladonna_02,ingred_belladonna_02,Unripened Belladonna Berries,0.1,5,Resist Magicka,Restore Magicka,Fortify Magicka,Drain Magicka
+ingred_bittergreen_petals_01,ingred_bittergreen_petals_01,Bittergreen Petals,0.1,5,Restore Attribute,Invisibility,Drain Attribute,Drain Magicka
+ingred_black_anther_01,ingred_black_anther_01,Black Anther,0.1,2,Drain Attribute,Resist Fire,Drain Attribute,Light
+ingred_black_lichen_01,ingred_black_lichen_01,Black Lichen,0.1,2,Drain Attribute,Resist Frost,Drain Attribute,Cure Poison
+ingred_bloat_01,ingred_bloat_01,Bloat,0.1,5,Drain Magicka,Fortify Attribute,Fortify Attribute,Detect Animal
+ingred_blood_innocent_unique,ingred_blood_innocent_unique,Blood of an Innocent,0.1,25,Drain Attribute,Light,Cure Common Disease,Drain Magicka
+ingred_boar_leather,ingred_boar_leather,Bristleback Leather,1.0,2,Blind,Frost Damage,Resist Frost,Recall
+ingred_bonemeal_01,ingred_bonemeal_01,Bonemeal,0.2,2,Restore Attribute,Telekinesis,Drain Fatigue,Drain Attribute
+ingred_bread_01,ingred_bread_01,Bread,0.2,1,Restore Fatigue
 ingred_bread_01_UNI2,ingred_bread_01_uni2,Bread,0.2,1,Restore Fatigue,,,,
 ingred_bread_01_UNI3,ingred_bread_01_uni3,Muffin,0.2,1,Restore Fatigue,,,,
 ingred_chokeweed_01,ingred_chokeweed_01,Chokeweed,0.1,1,Drain Attribute,Restore Fatigue,Cure Common Disease,Drain Attribute,
