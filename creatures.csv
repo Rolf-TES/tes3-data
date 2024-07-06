@@ -1,379 +1,377 @@
-;Morrowind;OpenMW/TES3MP;Name;Type;Level;;;;;;;;;;;
-;alit;alit;Alit;Creature;3;;;;;;;;;;;
-;alit_blighted;alit_blighted;Blighted Alit;Creature;7;;;;;;;;;;;
-;alit_diseased;alit_diseased;Diseased Alit;Creature;3;;;;;;;;;;;
-;almalexia;almalexia;Almalexia;Creature;100;;;;;;;;;;;
-;Almalexia_warrior;almalexia_warrior;Almalexia;Creature;100;;;;;;;;;;;
-;ancestor_ghost;ancestor_ghost;Ancestor Ghost;Undead;1;;;;;;;;;;;
-;ancestor_ghost_greater;ancestor_ghost_greater;Greater Ancestor Ghost;Undead;10;;;;;;;;;;;
-;ancestor_ghost_summon;ancestor_ghost_summon;Ancestor Ghost;Undead;1;;;;;;;;;;;
-;ancestor_ghost_vabdas;ancestor_ghost_vabdas;Mansilamat Vabdas;Undead;1;;;;;;;;;;;
-;ancestor_ghost_Variner;ancestor_ghost_variner;Variner's Ghost;Undead;30;;;;;;;;;;;
-;ancestor_guardian_fgdd;ancestor_guardian_fgdd;Ancestor Guardian;Undead;4;;;;;;;;;;;
-;ancestor_guardian_heler;ancestor_guardian_heler;Ghost of Galos Heleran;Undead;4;;;;;;;;;;;
-;ancestor_mg_wisewoman;ancestor_mg_wisewoman;Kanit Ashurnisammis;Undead;8;;;;;;;;;;;
-;ascended_sleeper;ascended_sleeper;Ascended Sleeper;Humanoid;25;;;;;;;;;;;
-;ash_ghoul;ash_ghoul;Ash Ghoul;Humanoid;15;;;;;;;;;;;
-;ash_ghoul_fgr;ash_ghoul_fgr;Dagoth Velos;Humanoid;14;;;;;;;;;;;
-;ash_ghoul_ganel;ash_ghoul_ganel;Dagoth Ganel;Humanoid;14;;;;;;;;;;;
-;ash_ghoul_mulyn;ash_ghoul_mulyn;Dagoth Mulyn;Humanoid;14;;;;;;;;;;;
-;ash_slave;ash_slave;Ash Slave;Humanoid;5;;;;;;;;;;;
-;ash_zombie;ash_zombie;Ash Zombie;Humanoid;8;;;;;;;;;;;
-;ash_zombie_fgaz;ash_zombie_fgaz;Ash Zombie;Humanoid;8;;;;;;;;;;;
-;atronach_flame;atronach_flame;Flame Atronach;Daedra;7;;;;;;;;;;;
-;atronach_flame_az;atronach_flame_az;Flame Atronach;Daedra;7;;;;;;;;;;;
-;atronach_flame_summon;atronach_flame_summon;Flame Atronach;Daedra;7;;;;;;;;;;;
-;atronach_flame_ttmk;atronach_flame_ttmk;Flame Atronach;Daedra;7;;;;;;;;;;;
-;atronach_frost;atronach_frost;Frost  Atronach;Daedra;9;;;;;;;;;;;
-;atronach_frost_BM;atronach_frost_bm;Dire Frost Atronach;Daedra;24;;;;;;;;;;;
-;atronach_frost_gwai_uni;atronach_frost_gwai_uni;Nomeg Gwai;Daedra;12;;;;;;;;;;;
-;atronach_frost_summon;atronach_frost_summon;Frost  Atronach;Daedra;9;;;;;;;;;;;
-;atronach_frost_ttmk;atronach_frost_ttmk;Frost  Atronach;Daedra;9;;;;;;;;;;;
-;atronach_storm;atronach_storm;Storm Atronach;Daedra;15;;;;;;;;;;;
-;atronach_storm_az;atronach_storm_az;Storm Atronach;Daedra;15;;;;;;;;;;;
-;atronach_storm_summon;atronach_storm_summon;Storm Atronach;Daedra;15;;;;;;;;;;;
-;atronach_storm_ttmk;atronach_storm_ttmk;Storm Atronach;Daedra;13;;;;;;;;;;;
-;bm skeleton champion gr;bm skeleton champion gr;Greater Skeleton Champion;Undead;20;;;;;;;;;;;
-;BM_bear_be_UNIQUE;bm_bear_be_unique;The Good Beast;Creature;15;;;;;;;;;;;
-;BM_bear_black;bm_bear_black;Grizzly Bear;Creature;10;;;;;;;;;;;
-;BM_bear_black_Claw_UNIQ;bm_bear_black_claw_uniq;Grizzly Bear;Creature;1;;;;;;;;;;;
-;BM_bear_black_fat;bm_bear_black_fat;Grizzly Bear;Creature;10;;;;;;;;;;;
-;BM_bear_black_summon;bm_bear_black_summon;Grizzly Bear;Creature;10;;;;;;;;;;;
-;BM_bear_brown;bm_bear_brown;Plague Bear;Creature;10;;;;;;;;;;;
-;BM_bear_snow_unique;bm_bear_snow_unique;Snow Bear;Creature;10;;;;;;;;;;;
-;BM_bear_SPR_UNIQUE;bm_bear_spr_unique;Spirit Bear;Creature;25;;;;;;;;;;;
-;BM_draugr01;bm_draugr01;Draugr;Creature;20;;;;;;;;;;;
-;BM_draugr_bloodskal;bm_draugr_bloodskal;Draugr;Creature;20;;;;;;;;;;;
-;BM_frost_boar;bm_frost_boar;Tusked Bristleback;Creature;15;;;;;;;;;;;
-;bm_frost_giant;bm_frost_giant;Karstaag;Creature;40;;;;;;;;;;;
-;BM_hircine;bm_hircine;Hircine;Daedra;100;;;;;;;;;;;
-;BM_hircine2;bm_hircine2;Hircine's Aspect of Guile;Daedra;100;;;;;;;;;;;
-;BM_hircine_huntaspect;bm_hircine_huntaspect;Hircine's Aspect of Speed;Daedra;100;;;;;;;;;;;
-;BM_hircine_spdaspect;bm_hircine_spdaspect;Hircine's Aspect of Strength;Daedra;100;;;;;;;;;;;
-;BM_hircine_straspect;bm_hircine_straspect;Hircine;Daedra;1;;;;;;;;;;;
-;BM_horker;bm_horker;Horker;Creature;5;;;;;;;;;;;
-;BM_horker_large;bm_horker_large;Horker;Creature;10;;;;;;;;;;;
-;BM_horker_swim_UNIQUE;bm_horker_swim_unique;The Swimmer;Creature;10;;;;;;;;;;;
-;BM_ice_troll;bm_ice_troll;Grahl;Creature;1;;;;;;;;;;;
-;BM_ice_troll_sun;bm_ice_troll_sun;Lightkeeper Grahl;Creature;1;;;;;;;;;;;
-;BM_ice_troll_tough;bm_ice_troll_tough;Fearsome Grahl;Creature;10;;;;;;;;;;;
-;BM_icetroll_FG_Uni;bm_icetroll_fg_uni;Deadly Grahl;Creature;20;;;;;;;;;;;
-;BM_riekling;bm_riekling;Riekling;Creature;10;;;;;;;;;;;
-;BM_riekling_be_UNIQUE;bm_riekling_be_unique;Riekling;Creature;15;;;;;;;;;;;
-;BM_riekling_be_UNIQUE1;bm_riekling_be_unique1;Riekling;Creature;15;;;;;;;;;;;
-;BM_riekling_be_UNIQUE2;bm_riekling_be_unique2;Riekling;Creature;15;;;;;;;;;;;
-;BM_riekling_be_UNIQUE3;bm_riekling_be_unique3;Riekling;Creature;15;;;;;;;;;;;
-;BM_riekling_be_UNIQUE4;bm_riekling_be_unique4;Riekling;Creature;15;;;;;;;;;;;
-;BM_riekling_be_UNIQUE5;bm_riekling_be_unique5;Riekling;Creature;1;;;;;;;;;;;
-;BM_riekling_boarmaster;bm_riekling_boarmaster;Riekling Boarmaster;Creature;20;;;;;;;;;;;
-;BM_riekling_Dulk_UNIQUE;bm_riekling_dulk_unique;Dulk;Creature;15;;;;;;;;;;;
-;BM_riekling_Krish_UNIQU;bm_riekling_krish_uniqu;Krish;Creature;15;;;;;;;;;;;
-;BM_riekling_mounted;bm_riekling_mounted;Riekling Raider;Creature;20;;;;;;;;;;;
-;BM_riekling_st_UNIQUE;bm_riekling_st_unique;Riekling;Creature;20;;;;;;;;;;;
-;bm_sk_champ_bloodskal01;bm_sk_champ_bloodskal01;Greater Skeleton Champion;Undead;20;;;;;;;;;;;
-;bm_sk_champ_bloodskal02;bm_sk_champ_bloodskal02;Greater Skeleton Champion;Undead;20;;;;;;;;;;;
-;bm_skeleton_pirate ;bm_skeleton_pirate ;Skeleton Pirate;Undead;25;;;;;;;;;;;
-;bm_skeleton_pirate_capt;bm_skeleton_pirate_capt;Skeleton Pirate Captain;Undead;35;;;;;;;;;;;
-;BM_spriggan;bm_spriggan;Spriggan;Creature;20;;;;;;;;;;;
-;BM_spriggan_co1;bm_spriggan_co1;Spriggan;Creature;20;;;;;;;;;;;
-;BM_spriggan_co2;bm_spriggan_co2;Spriggan;Creature;20;;;;;;;;;;;
-;BM_spriggan_co3;bm_spriggan_co3;Spriggan;Creature;20;;;;;;;;;;;
-;BM_spriggan_co4;bm_spriggan_co4;Spriggan;Creature;20;;;;;;;;;;;
-;BM_spriggan_st_UNIQUE;bm_spriggan_st_unique;Spriggan;Creature;20;;;;;;;;;;;
-;BM_udyrfrykte;bm_udyrfrykte;The Udyrfrykte;Creature;11;;;;;;;;;;;
-;BM_werewolf_default;bm_werewolf_default;Werewolf;Creature;10;;;;;;;;;;;
-;BM_werewolf_ritual;bm_werewolf_ritual;Werewolf Innocent;Creature;50;;;;;;;;;;;
-;BM_wolf_bone_summon;bm_wolf_bone_summon;Bonewolf;Undead;10;;;;;;;;;;;
-;BM_wolf_caenlorn1;bm_wolf_caenlorn1;Caenlorn Wolf;Creature;20;;;;;;;;;;;
-;BM_wolf_caenlorn2;bm_wolf_caenlorn2;Caenlorn Wolf;Creature;20;;;;;;;;;;;
-;BM_wolf_caenlorn3;bm_wolf_caenlorn3;Caenlorn Wolf;Creature;20;;;;;;;;;;;
-;BM_wolf_grey;bm_wolf_grey;Wolf;Creature;5;;;;;;;;;;;
-;BM_wolf_grey_lvl_1;bm_wolf_grey_lvl_1;Wolf;Creature;1;;;;;;;;;;;
-;BM_wolf_grey_summon;bm_wolf_grey_summon;Wolf;Creature;5;;;;;;;;;;;
-;BM_wolf_hroldar;bm_wolf_hroldar;Wolf;Creature;5;;;;;;;;;;;
-;BM_wolf_red;bm_wolf_red;Plague Wolf;Creature;5;;;;;;;;;;;
-;BM_wolf_skeleton;bm_wolf_skeleton;Bonewolf;Undead;10;;;;;;;;;;;
-;BM_wolf_snow_unique;bm_wolf_snow_unique;Snow Wolf;Creature;10;;;;;;;;;;;
-;bonelord;bonelord;Bonelord;Undead;8;;;;;;;;;;;
-;bonelord_summon;bonelord_summon;Bonelord;Undead;8;;;;;;;;;;;
-;bonewalker;bonewalker;Bonewalker;Undead;4;;;;;;;;;;;
-;Bonewalker_Greater;bonewalker_greater;Greater Bonewalker;Undead;7;;;;;;;;;;;
-;Bonewalker_Greater_summ;bonewalker_greater_summ;Greater Bonewalker;Undead;7;;;;;;;;;;;
-;bonewalker_summon;bonewalker_summon;Bonewalker;Undead;4;;;;;;;;;;;
-;bonewalker_weak;bonewalker_weak;Lesser Bonewalker;Undead;3;;;;;;;;;;;
-;centurion_Mudan_unique;centurion_mudan_unique;Steam Guardian;Creature;18;;;;;;;;;;;
-;centurion_projectile;centurion_projectile;Centurion Archer;Creature;10;;;;;;;;;;;
-;centurion_projectile_C;centurion_projectile_c;Centurion Archer;Creature;10;;;;;;;;;;;
-;centurion_shock_baladas;centurion_shock_baladas;Shock Centurion;Creature;8;;;;;;;;;;;
-;centurion_sphere;centurion_sphere;Centurion Sphere;Creature;5;;;;;;;;;;;
-;centurion_sphere_bbot1;centurion_sphere_bbot1;Centurion Sphere;Creature;10;;;;;;;;;;;
-;centurion_sphere_bbot5;centurion_sphere_bbot5;Centurion Sphere;Creature;5;;;;;;;;;;;
-;centurion_sphere_bbot6;centurion_sphere_bbot6;Centurion Sphere;Creature;5;;;;;;;;;;;
-;centurion_sphere_hts2;centurion_sphere_hts2;Centurion Sphere;Creature;5;;;;;;;;;;;
-;centurion_sphere_nchur;centurion_sphere_nchur;Centurion Sphere;Creature;5;;;;;;;;;;;
-;centurion_sphere_summon;centurion_sphere_summon;Centurion Sphere;Creature;5;;;;;;;;;;;
-;centurion_spider;centurion_spider;Centurion Spider;Creature;3;;;;;;;;;;;
-;centurion_spider_bbot1;centurion_spider_bbot1;Centurion Spider;Creature;3;;;;;;;;;;;
-;centurion_spider_bbot3;centurion_spider_bbot3;Centurion Spider;Creature;3;;;;;;;;;;;
-;centurion_spider_bbot7;centurion_spider_bbot7;Centurion Spider;Creature;3;;;;;;;;;;;
-;centurion_spider_nchur;centurion_spider_nchur;Centurion Spider;Creature;3;;;;;;;;;;;
-;centurion_spider_tga1;centurion_spider_tga1;Spider Centurion;Creature;3;;;;;;;;;;;
-;centurion_spider_tga2;centurion_spider_tga2;Spider Centurion;Creature;3;;;;;;;;;;;
-;centurion_steam;centurion_steam;Steam Centurion;Creature;10;;;;;;;;;;;
-;centurion_steam_A_C;centurion_steam_a_c;Advanced Steam Centurion;Creature;20;;;;;;;;;;;
-;centurion_steam_advance;centurion_steam_advance;Advanced Steam Centurion;Creature;20;;;;;;;;;;;
-;centurion_steam_bbot2;centurion_steam_bbot2;Steam Centurion;Creature;10;;;;;;;;;;;
-;centurion_steam_bbot4;centurion_steam_bbot4;Steam Centurion;Creature;10;;;;;;;;;;;
-;centurion_steam_bbot8;centurion_steam_bbot8;Steam Centurion;Creature;10;;;;;;;;;;;
-;centurion_steam_C_L;centurion_steam_c_l;Advanced Steam Centurion;Creature;30;;;;;;;;;;;
-;centurion_steam_exhibit;centurion_steam_exhibit;Steam Centurion;Creature;10;;;;;;;;;;;
-;centurion_steam_hts;centurion_steam_hts;Steam Centurion;Creature;10;;;;;;;;;;;
-;centurion_steam_nchur;centurion_steam_nchur;Steam Centurion;Creature;10;;;;;;;;;;;
-;clannfear;clannfear;Clannfear;Daedra;7;;;;;;;;;;;
-;clannfear_summon;clannfear_summon;Clannfear;Daedra;7;;;;;;;;;;;
-;cliff racer;cliff racer;Cliff Racer;Creature;4;;;;;;;;;;;
-;cliff racer_blighted;cliff racer_blighted;Blighted Cliff Racer;Creature;8;;;;;;;;;;;
-;cliff racer_diseased;cliff racer_diseased;Diseased Cliff Racer;Creature;4;;;;;;;;;;;
-;corprus_lame;corprus_lame;Lame Corprus ;Humanoid;8;;;;;;;;;;;
-;corprus_lame_fyr01;corprus_lame_fyr01;Lame Corprus ;Humanoid;8;;;;;;;;;;;
-;corprus_lame_fyr02;corprus_lame_fyr02;Lame Corprus ;Humanoid;8;;;;;;;;;;;
-;corprus_lame_fyr03;corprus_lame_fyr03;Lame Corprus ;Humanoid;8;;;;;;;;;;;
-;corprus_lame_fyr04;corprus_lame_fyr04;Lame Corprus ;Humanoid;8;;;;;;;;;;;
-;corprus_lame_morvayn;corprus_lame_morvayn;Lame Corprus ;Humanoid;8;;;;;;;;;;;
-;corprus_stalker;corprus_stalker;Corprus Stalker;Humanoid;5;;;;;;;;;;;
-;corprus_stalker_berwen;corprus_stalker_berwen;Corprus Stalker;Humanoid;5;;;;;;;;;;;
-;corprus_stalker_danar;corprus_stalker_danar;Corprus Stalker;Humanoid;5;;;;;;;;;;;
-;corprus_stalker_fgcs;corprus_stalker_fgcs;Corprus Stalker;Humanoid;5;;;;;;;;;;;
-;corprus_stalker_fyr01;corprus_stalker_fyr01;Corprus Stalker;Humanoid;5;;;;;;;;;;;
-;corprus_stalker_fyr02;corprus_stalker_fyr02;Corprus Stalker;Humanoid;5;;;;;;;;;;;
-;corprus_stalker_fyr03;corprus_stalker_fyr03;Corprus Stalker;Humanoid;5;;;;;;;;;;;
-;corprus_stalker_morvayn;corprus_stalker_morvayn;Corprus Stalker;Humanoid;5;;;;;;;;;;;
-;daedroth;daedroth;Daedroth;Daedra;12;;;;;;;;;;;
-;daedroth_az;daedroth_az;Daedroth;Daedra;12;;;;;;;;;;;
-;daedroth_baladas;daedroth_baladas;Daedroth;Daedra;12;;;;;;;;;;;
-;daedroth_fg_nchur;daedroth_fg_nchur;Hrelvesuu;Daedra;12;;;;;;;;;;;
-;daedroth_menta_unique;daedroth_menta_unique;Menta Na;Daedra;20;;;;;;;;;;;
-;daedroth_summon;daedroth_summon;Daedroth;Daedra;12;;;;;;;;;;;
-;dagoth aladus;dagoth aladus;Dagoth Aladus;Humanoid;16;;;;;;;;;;;
-;dagoth araynys;dagoth araynys;Dagoth Araynys;Humanoid;30;;;;;;;;;;;
-;dagoth baler;dagoth baler;Dagoth Baler;Undead;16;;;;;;;;;;;
-;dagoth daynil;dagoth daynil;Dagoth Daynil;Humanoid;16;;;;;;;;;;;
-;dagoth delnus;dagoth delnus;Dagoth Delnus;Humanoid;16;;;;;;;;;;;
-;dagoth drals;dagoth drals;Dagoth Drals;Humanoid;16;;;;;;;;;;;
-;Dagoth Draven;dagoth draven;Dagoth Draven;Humanoid;16;;;;;;;;;;;
-;dagoth elam;dagoth elam;Dagoth Elam;Humanoid;16;;;;;;;;;;;
-;dagoth endus;dagoth endus;Dagoth Endus;Humanoid;30;;;;;;;;;;;
-;dagoth fals;dagoth fals;Dagoth Fals;Humanoid;16;;;;;;;;;;;
-;dagoth fandril;dagoth fandril;Dagoth Fandril;Humanoid;20;;;;;;;;;;;
-;dagoth felmis;dagoth felmis;Dagoth Felmis;Humanoid;20;;;;;;;;;;;
-;dagoth fervas;dagoth fervas;Dagoth Fervas;Humanoid;16;;;;;;;;;;;
-;dagoth fovon;dagoth fovon;Dagoth Fovon;Humanoid;16;;;;;;;;;;;
-;dagoth galmis;dagoth galmis;Dagoth Galmis;Humanoid;16;;;;;;;;;;;
-;dagoth garel;dagoth garel;Dagoth Garel;Humanoid;20;;;;;;;;;;;
-;dagoth gares;dagoth gares;Dagoth Gares;Humanoid;14;;;;;;;;;;;
-;dagoth gilvoth;dagoth gilvoth;Dagoth Gilvoth;Humanoid;30;;;;;;;;;;;
-;dagoth girer;dagoth girer;Dagoth Girer;Humanoid;16;;;;;;;;;;;
-;dagoth goral;dagoth goral;Dagoth Goral;Humanoid;20;;;;;;;;;;;
-;dagoth ienas;dagoth ienas;Dagoth Ienas;Humanoid;16;;;;;;;;;;;
-;dagoth irvyn;dagoth irvyn;Dagoth Irvyn;Humanoid;20;;;;;;;;;;;
-;dagoth malan;dagoth malan;Dagoth Malan;Humanoid;20;;;;;;;;;;;
-;dagoth mendras;dagoth mendras;Dagoth Mendras;Humanoid;16;;;;;;;;;;;
-;dagoth molos;dagoth molos;Dagoth Molos;Humanoid;20;;;;;;;;;;;
-;dagoth mulis;dagoth mulis;Dagoth Mulis;Humanoid;16;;;;;;;;;;;
-;dagoth muthes;dagoth muthes;Dagoth Muthes;Humanoid;16;;;;;;;;;;;
-;dagoth nilor;dagoth nilor;Dagoth Nilor;Humanoid;16;;;;;;;;;;;
-;dagoth odros;dagoth odros;Dagoth Odros;Humanoid;30;;;;;;;;;;;
-;dagoth ralas;dagoth ralas;Dagoth Ralas;Humanoid;16;;;;;;;;;;;
-;dagoth rather;dagoth rather;Dagoth Rather;Humanoid;20;;;;;;;;;;;
-;dagoth reler;dagoth reler;Dagoth Reler;Humanoid;20;;;;;;;;;;;
-;dagoth soler;dagoth soler;Dagoth Soler;Humanoid;16;;;;;;;;;;;
-;dagoth tanis;dagoth tanis;Dagoth Tanis;Humanoid;20;;;;;;;;;;;
-;dagoth tureynul;dagoth tureynul;Dagoth Tureynul;Humanoid;30;;;;;;;;;;;
-;dagoth ulen;dagoth ulen;Dagoth Ulen;Humanoid;20;;;;;;;;;;;
-;dagoth uthol;dagoth uthol;Dagoth Uthol;Humanoid;30;;;;;;;;;;;
-;dagoth uvil;dagoth uvil;Dagoth Uvil;Humanoid;20;;;;;;;;;;;
-;dagoth vaner;dagoth vaner;Dagoth Vaner;Humanoid;20;;;;;;;;;;;
-;dagoth velos;dagoth velos;Dagoth Velos;Humanoid;16;;;;;;;;;;;
-;dagoth vemyn;dagoth vemyn;Dagoth Vemyn;Humanoid;30;;;;;;;;;;;
-;dagoth_hlevul;dagoth_hlevul;Dagoth Hlevul;Humanoid;18;;;;;;;;;;;
-;dagoth_ur_1;dagoth_ur_1;Dagoth Ur;Humanoid;35;;;;;;;;;;;
-;dagoth_ur_2;dagoth_ur_2;Dagoth Ur;Humanoid;35;;;;;;;;;;;
-;Dahrk Mezalf;dahrk mezalf;Dahrk Mezalf;Undead;10;;;;;;;;;;;
-;draugr;draugr;draugr;Creature;10;;;;;;;;;;;
-;draugr_aesliip;draugr_aesliip;Draugr Lord Aesliip;Creature;50;;;;;;;;;;;
-;draugr_co_3;draugr_co_3;Draugr;Creature;10;;;;;;;;;;;
-;draugr_valbrandr;draugr_valbrandr;Valbrandr draugr;Creature;10;;;;;;;;;;;
-;dremora;dremora;Dremora;Daedra;9;;;;;;;;;;;
-;dremora_gothren_guard1;dremora_gothren_guard1;Dremora;Daedra;9;;;;;;;;;;;
-;dremora_gothren_guard2;dremora_gothren_guard2;Dremora;Daedra;9;;;;;;;;;;;
-;dremora_lord;dremora_lord;Dremora Lord;Daedra;12;;;;;;;;;;;
-;dremora_lord_khash_uni;dremora_lord_khash_uni;Khash-Ti Dhrur;Daedra;12;;;;;;;;;;;
-;dremora_special_Fyr;dremora_special_fyr;Lord Dregas Volar;Daedra;18;;;;;;;;;;;
-;dremora_summon;dremora_summon;Dremora;Daedra;9;;;;;;;;;;;
-;dremora_ttmg;dremora_ttmg;Anhaedra;Daedra;9;;;;;;;;;;;
-;dremora_ttpc;dremora_ttpc;Krazzt;Daedra;6;;;;;;;;;;;
-;dreugh;dreugh;Dreugh;Creature;5;;;;;;;;;;;
-;dreugh_koal;dreugh_koal;Dreugh Warlord;Creature;20;;;;;;;;;;;
-;durzog_diseased;durzog_diseased;Diseased Durzog;Creature;10;;;;;;;;;;;
-;durzog_war;durzog_war;War Durzog;Creature;15;;;;;;;;;;;
-;durzog_war_trained;durzog_war_trained;War Durzog;Creature;10;;;;;;;;;;;
-;durzog_wild;durzog_wild;Wild Durzog;Creature;10;;;;;;;;;;;
-;durzog_wild_weaker;durzog_wild_weaker;Wild Durzog;Creature;5;;;;;;;;;;;
-;dwarven ghost;dwarven ghost;Dwarven Spectre;Undead;5;;;;;;;;;;;
-;dwarven ghost_jeanne_U;dwarven ghost_jeanne_u;Dwarven Spectre;Undead;5;;;;;;;;;;;
-;dwarven ghost_radac;dwarven ghost_radac;Radac Stungnthumz;Undead;25;;;;;;;;;;;
-;fabricant_hulkin_attack;fabricant_hulkin_attack;Hulking Fabricant;Creature;20;;;;;;;;;;;
-;fabricant_hulking;fabricant_hulking;Hulking Fabricant;Creature;30;;;;;;;;;;;
-;fabricant_hulking_attac;fabricant_hulking_attac;Hulking Fabricant;Creature;20;;;;;;;;;;;
-;fabricant_hulking_C;fabricant_hulking_c;Hulking Fabricant;Creature;20;;;;;;;;;;;
-;fabricant_hulking_C_L;fabricant_hulking_c_l;Hulking Fabricant;Creature;20;;;;;;;;;;;
-;fabricant_hulking_ss;fabricant_hulking_ss;Hulking Fabricant;Creature;30;;;;;;;;;;;
-;fabricant_machine_1;fabricant_machine_1;Verminous Fabricant;Creature;2;;;;;;;;;;;
-;fabricant_summon;fabricant_summon;Verminous Fabricant;Creature;2;;;;;;;;;;;
-;fabricant_verm_attack;fabricant_verm_attack;Verminous Fabricant;Creature;10;;;;;;;;;;;
-;fabricant_verminous;fabricant_verminous;Verminous Fabricant;Creature;10;;;;;;;;;;;
-;fabricant_verminous-rs;fabricant_verminous-rs;Verminous Fabricant;Creature;10;;;;;;;;;;;
-;fabricant_verminous_C;fabricant_verminous_c;Verminous Fabricant;Creature;10;;;;;;;;;;;
-;gateway_haunt;gateway_haunt;Gateway Haunt;Undead;1;;;;;;;;;;;
-;glenmoril_raven;glenmoril_raven;Ettiene of Glenmoril Wyrd;Creature;4;;;;;;;;;;;
-;glenmoril_raven_cave;glenmoril_raven_cave;Ettiene of Glenmoril Wyrd;Creature;4;;;;;;;;;;;
-;goblin_bruiser;goblin_bruiser;Goblin Bruiser;Creature;20;;;;;;;;;;;
-;goblin_footsoldier;goblin_footsoldier;Goblin Footsoldier;Creature;13;;;;;;;;;;;
-;goblin_grunt;goblin_grunt;Goblin;Creature;7;;;;;;;;;;;
-;goblin_handler;goblin_handler;Goblin Handler;Creature;20;;;;;;;;;;;
-;goblin_officer;goblin_officer;Goblin Officer;Creature;25;;;;;;;;;;;
-;goblin_officerUNI;goblin_officeruni;Goblin Officer;Creature;25;;;;;;;;;;;
-;goblin_warchief1;goblin_warchief1;Warchief Durgoc;Creature;35;;;;;;;;;;;
-;goblin_warchief2;goblin_warchief2;Warchief Kurog;Creature;35;;;;;;;;;;;
-;golden saint;golden saint;Golden Saint;Daedra;20;;;;;;;;;;;
-;golden saint_staada;golden saint_staada;Staada;Creature;22;;;;;;;;;;;
-;golden saint_summon;golden saint_summon;Golden Saint;Daedra;20;;;;;;;;;;;
-;golden saint_velas1;golden saint_velas1;Golden Saint;Daedra;20;;;;;;;;;;;
-;golden saint_velas2;golden saint_velas2;Golden Saint;Daedra;20;;;;;;;;;;;
-;guar;guar;Guar;Creature;3;;;;;;;;;;;
-;guar_feral;guar_feral;Wild Guar;Creature;3;;;;;;;;;;;
-;guar_llovyn_unique;guar_llovyn_unique;Corky;Creature;3;;;;;;;;;;;
-;guar_pack;guar_pack;Pack Guar;Creature;3;;;;;;;;;;;
-;guar_pack_tarvyn_unique;guar_pack_tarvyn_unique;Tarvyn's Guar;Creature;3;;;;;;;;;;;
-;guar_rollie_unique;guar_rollie_unique;Rollie the Guar;Creature;3;;;;;;;;;;;
-;guar_white_unique;guar_white_unique;The White Guar;Creature;3;;;;;;;;;;;
-;heart_akulakhan;heart_akulakhan;Heart of Lorkhan;Daedra;1;;;;;;;;;;;
-;hunger;hunger;Hunger;Daedra;11;;;;;;;;;;;
-;hunger_audenian;hunger_audenian;Hunger;Daedra;11;;;;;;;;;;;
-;hunger_az_01;hunger_az_01;Hunger;Daedra;11;;;;;;;;;;;
-;hunger_az_02;hunger_az_02;Hunger;Daedra;11;;;;;;;;;;;
-;hunger_fghl;hunger_fghl;Hunger;Daedra;1;;;;;;;;;;;
-;hunger_summon;hunger_summon;Hunger;Creature;11;;;;;;;;;;;
-;Imperfect;imperfect;Imperfect;Creature;80;;;;;;;;;;;
-;kagouti;kagouti;Kagouti;Creature;4;;;;;;;;;;;
-;kagouti_blighted;kagouti_blighted;Blighted Kagouti;Creature;8;;;;;;;;;;;
-;kagouti_diseased;kagouti_diseased;Diseased Kagouti;Creature;4;;;;;;;;;;;
-;kagouti_hrk;kagouti_hrk;Kagouti;Creature;4;;;;;;;;;;;
-;kagouti_mating;kagouti_mating;Mating Kagouti;Creature;5;;;;;;;;;;;
-;kwama forager;kwama forager;Kwama Forager;Creature;2;;;;;;;;;;;
-;kwama forager blighted;kwama forager blighted;Kwama Forager;Creature;6;;;;;;;;;;;
-;kwama forager_tb;kwama forager_tb;Kwama Forager;Creature;2;;;;;;;;;;;
-;Kwama Queen;kwama queen;Kwama Queen;Creature;6;;;;;;;;;;;
-;Kwama Queen_Abaesen;kwama queen_abaesen;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_ahanibi;kwama queen_ahanibi;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_akimaes;kwama queen_akimaes;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_eluba;kwama queen_eluba;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_eretammus;kwama queen_eretammus;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_gnisis;kwama queen_gnisis;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_hairat;kwama queen_hairat;Kwama Queen;Creature;1;;;;;;;;;;;
-;Kwama Queen_HHEM;kwama queen_hhem;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_madas;kwama queen_madas;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_maesa;kwama queen_maesa;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_matus;kwama queen_matus;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_mudan;kwama queen_mudan;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_mudan_c;kwama queen_mudan_c;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_panabanit;kwama queen_panabanit;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_sarimisun;kwama queen_sarimisun;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_shurdan;kwama queen_shurdan;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_shurdan_c;kwama queen_shurdan_c;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_sinamusa;kwama queen_sinamusa;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama queen_zalkin;kwama queen_zalkin;Kwama Queen;Creature;1;;;;;;;;;;;
-;kwama warrior;kwama warrior;Kwama Warrior;Creature;3;;;;;;;;;;;
-;kwama warrior blighted;kwama warrior blighted;Kwama Warrior;Creature;7;;;;;;;;;;;
-;kwama warrior shurdan;kwama warrior shurdan;Blighted Kwama Warrior;Creature;7;;;;;;;;;;;
-;kwama worker;kwama worker;Kwama Worker;Creature;2;;;;;;;;;;;
-;kwama worker blighted;kwama worker blighted;Kwama Worker;Creature;6;;;;;;;;;;;
-;kwama worker diseased;kwama worker diseased;Diseased Kwama Worker;Creature;2;;;;;;;;;;;
-;kwama worker entrance;kwama worker entrance;Kwama Worker;Undead;2;;;;;;;;;;;
-;lich;lich;Lich;Undead;20;;;;;;;;;;;
-;lich_barilzar;lich_barilzar;Barilzar;Undead;45;;;;;;;;;;;
-;lich_profane_unique;lich_profane_unique;Profane Acolyte;Undead;20;;;;;;;;;;;
-;lich_relvel;lich_relvel;Gedna Relvel;Daedra;40;;;;;;;;;;;
-;lustidrike;lustidrike;Lustidrike;Creature;8;;;;;;;;;;;
-;mudcrab;mudcrab;Mudcrab;Creature;1;;;;;;;;;;;
-;mudcrab-Diseased;mudcrab-diseased;Diseased Mudcrab;Creature;1;;;;;;;;;;;
-;mudcrab_hrmudcrabnest;mudcrab_hrmudcrabnest;Mudcrab;Creature;1;;;;;;;;;;;
-;mudcrab_unique;mudcrab_unique;Mudcrab;Creature;1;;;;;;;;;;;
-;netch_betty;netch_betty;Betty Netch;Creature;10;;;;;;;;;;;
-;netch_betty_ilgn;netch_betty_ilgn;Betty Netch;Creature;10;;;;;;;;;;;
-;netch_betty_ranched;netch_betty_ranched;Betty Netch;Creature;10;;;;;;;;;;;
-;netch_bull;netch_bull;Bull Netch;Creature;4;;;;;;;;;;;
-;netch_bull_ilgn;netch_bull_ilgn;Bull Netch;Creature;4;;;;;;;;;;;
-;netch_bull_ranched;netch_bull_ranched;Bull Netch;Creature;4;;;;;;;;;;;
-;Netch_Giant_UNIQUE;netch_giant_unique;Giant Bull Netch;Creature;4;;;;;;;;;;;
-;nix-hound;nix-hound;Nix-Hound;Creature;2;;;;;;;;;;;
-;nix-hound blighted;nix-hound blighted;Blighted Nix-Hound;Daedra;6;;;;;;;;;;;
-;ogrim;ogrim;Ogrim;Daedra;11;;;;;;;;;;;
-;ogrim titan;ogrim titan;Ogrim Titan;Daedra;15;;;;;;;;;;;
-;ogrim titan_velas;ogrim titan_velas;Ogrim Titan;Daedra;15;;;;;;;;;;;
-;ogrim_az;ogrim_az;Ogrim;Creature;11;;;;;;;;;;;
-;Rat;rat;Rat;Creature;2;;;;;;;;;;;
-;rat_blighted;rat_blighted;Blighted Rat;Creature;4;;;;;;;;;;;
-;rat_cave_fgrh;rat_cave_fgrh;Cave Rat;Creature;3;;;;;;;;;;;
-;rat_cave_fgt;rat_cave_fgt;Cave Rat;Creature;3;;;;;;;;;;;
-;rat_cave_hhte1;rat_cave_hhte1;Game Rat;Creature;4;;;;;;;;;;;
-;rat_cave_hhte2;rat_cave_hhte2;Blighted Game Rat;Creature;4;;;;;;;;;;;
-;rat_diseased;rat_diseased;Diseased Rat;Creature;3;;;;;;;;;;;
-;Rat_pack_rerlas;rat_pack_rerlas;Pack Rat;Creature;5;;;;;;;;;;;
-;Rat_plague;rat_plague;Infected Rat;Creature;2;;;;;;;;;;;
-;Rat_plague_hall1;rat_plague_hall1;Infected Rat;Creature;2;;;;;;;;;;;
-;Rat_plague_hall1a;rat_plague_hall1a;Infected Rat;Creature;2;;;;;;;;;;;
-;Rat_plague_hall2;rat_plague_hall2;Infected Rat;Creature;2;;;;;;;;;;;
-;Rat_rerlas;rat_rerlas;Rat;Creature;5;;;;;;;;;;;
-;rat_telvanni_unique;rat_telvanni_unique;Telvanni Sewer Rat;Creature;2;;;;;;;;;;;
-;rat_telvanni_unique_2;rat_telvanni_unique_2;Telvanni Sewer Rat;Daedra;2;;;;;;;;;;;
-;scamp;scamp;Scamp;Daedra;5;;;;;;;;;;;
-;scamp_creeper;scamp_creeper;Creeper;Daedra;5;;;;;;;;;;;
-;scamp_mg_apprentice;scamp_mg_apprentice;Scamp;Daedra;5;;;;;;;;;;;
-;scamp_summon;scamp_summon;Scamp;Creature;5;;;;;;;;;;;
-;scrib;scrib;Scrib;Creature;1;;;;;;;;;;;
-;scrib blighted;scrib blighted;Hive Scrib;Creature;4;;;;;;;;;;;
-;scrib diseased;scrib diseased;Blighted Scrib;Creature;1;;;;;;;;;;;
-;scrib_rerlas;scrib_rerlas;Diseased Scrib;Creature;5;;;;;;;;;;;
-;scrib_vaba-amus;scrib_vaba-amus;Scrib;Creature;1;;;;;;;;;;;
-;shalk;shalk;Shalk;Creature;6;;;;;;;;;;;
-;shalk_blighted;shalk_blighted;Blighted Shalk;Creature;10;;;;;;;;;;;
-;shalk_diseased;shalk_diseased;Diseased Shalk;Creature;6;;;;;;;;;;;
-;shalk_diseased_hram;shalk_diseased_hram;Diseased Shalk;Creature;5;;;;;;;;;;;
-;skeleton;skeleton;Skeleton;Undead;3;;;;;;;;;;;
-;skeleton archer;skeleton archer;Skeleton Archer;Undead;3;;;;;;;;;;;
-;skeleton champ_sandas00;skeleton champ_sandas00;Skeleton Champion;Undead;10;;;;;;;;;;;
-;skeleton champ_sandas10;skeleton champ_sandas10;Skeleton Champion;Undead;10;;;;;;;;;;;
-;skeleton champion;skeleton champion;Skeleton Champion;Undead;10;;;;;;;;;;;
-;skeleton entrance;skeleton entrance;Skeleton;Undead;2;;;;;;;;;;;
-;skeleton nord ;skeleton nord ;Skeleton Berserker;Undead;10;;;;;;;;;;;
-;skeleton nord_2;skeleton nord_2;Skeleton Berserker;Undead;10;;;;;;;;;;;
-;skeleton warrior;skeleton warrior;Skeleton Warrior;Undead;7;;;;;;;;;;;
-;skeleton_aldredaynia;skeleton_aldredaynia;Skeleton War-Wizard;Undead;20;;;;;;;;;;;
-;skeleton_relvel;skeleton_relvel;Skeleton Champion;Undead;10;;;;;;;;;;;
-;skeleton_stahl_uni;skeleton_stahl_uni;Skeleton Berserker;Undead;20;;;;;;;;;;;
-;skeleton_summon;skeleton_summon;Skeleton;Undead;3;;;;;;;;;;;
-;skeleton_Vemynal;skeleton_vemynal;Beldoh the Undying;Undead;14;;;;;;;;;;;
-;skeleton_weak;skeleton_weak;Crippled Skeleton;Undead;3;;;;;;;;;;;
-;slaughterfish;slaughterfish;Slaughterfish;Creature;2;;;;;;;;;;;
-;slaughterfish_hr_sfavd;slaughterfish_hr_sfavd;Old Blue Fin;Creature;2;;;;;;;;;;;
-;Slaughterfish_Small;slaughterfish_small;Small Slaughterfish;Creature;2;;;;;;;;;;;
-;vivec_god;vivec_god;Vivec;Creature;100;;;;;;;;;;;
-;winged twilight;winged twilight;Winged Twilight;Daedra;15;;;;;;;;;;;
-;winged twilight_grunda_;winged twilight_grunda_;Molag Grunda;Daedra;20;;;;;;;;;;;
-;winged twilight_summon;winged twilight_summon;Winged Twilight;Daedra;15;;;;;;;;;;;
-;worm lord;worm lord;Worm Lord;Undead;16;;;;;;;;;;;
-;wraith_sul_senipul;wraith_sul_senipul;Wraith of Sul-Senipul;Undead;10;;;;;;;;;;;
-;yagrum bagarn;yagrum bagarn;Yagrum Bagarn;Creature;40;;;;;;;;;;;
-;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;
+,Morrowind,OpenMW/TES3MP,Name,Type,Level,,,,,,,,,,,
+,alit,alit,Alit,Creature,3,,,,,,,,,,,
+,alit_blighted,alit_blighted,Blighted Alit,Creature,7,,,,,,,,,,,
+,alit_diseased,alit_diseased,Diseased Alit,Creature,3,,,,,,,,,,,
+,almalexia,almalexia,Almalexia,Creature,100,,,,,,,,,,,
+,Almalexia_warrior,almalexia_warrior,Almalexia,Creature,100,,,,,,,,,,,
+,ancestor_ghost,ancestor_ghost,Ancestor Ghost,Undead,1,,,,,,,,,,,
+,ancestor_ghost_greater,ancestor_ghost_greater,Greater Ancestor Ghost,Undead,10,,,,,,,,,,,
+,ancestor_ghost_summon,ancestor_ghost_summon,Ancestor Ghost,Undead,1,,,,,,,,,,,
+,ancestor_ghost_vabdas,ancestor_ghost_vabdas,Mansilamat Vabdas,Undead,1,,,,,,,,,,,
+,ancestor_ghost_Variner,ancestor_ghost_variner,Variner's Ghost,Undead,30,,,,,,,,,,,
+,ancestor_guardian_fgdd,ancestor_guardian_fgdd,Ancestor Guardian,Undead,4,,,,,,,,,,,
+,ancestor_guardian_heler,ancestor_guardian_heler,Ghost of Galos Heleran,Undead,4,,,,,,,,,,,
+,ancestor_mg_wisewoman,ancestor_mg_wisewoman,Kanit Ashurnisammis,Undead,8,,,,,,,,,,,
+,ascended_sleeper,ascended_sleeper,Ascended Sleeper,Humanoid,25,,,,,,,,,,,
+,ash_ghoul,ash_ghoul,Ash Ghoul,Humanoid,15,,,,,,,,,,,
+,ash_ghoul_fgr,ash_ghoul_fgr,Dagoth Velos,Humanoid,14,,,,,,,,,,,
+,ash_ghoul_ganel,ash_ghoul_ganel,Dagoth Ganel,Humanoid,14,,,,,,,,,,,
+,ash_ghoul_mulyn,ash_ghoul_mulyn,Dagoth Mulyn,Humanoid,14,,,,,,,,,,,
+,ash_slave,ash_slave,Ash Slave,Humanoid,5,,,,,,,,,,,
+,ash_zombie,ash_zombie,Ash Zombie,Humanoid,8,,,,,,,,,,,
+,ash_zombie_fgaz,ash_zombie_fgaz,Ash Zombie,Humanoid,8,,,,,,,,,,,
+,atronach_flame,atronach_flame,Flame Atronach,Daedra,7,,,,,,,,,,,
+,atronach_flame_az,atronach_flame_az,Flame Atronach,Daedra,7,,,,,,,,,,,
+,atronach_flame_summon,atronach_flame_summon,Flame Atronach,Daedra,7,,,,,,,,,,,
+,atronach_flame_ttmk,atronach_flame_ttmk,Flame Atronach,Daedra,7,,,,,,,,,,,
+,atronach_frost,atronach_frost,Frost  Atronach,Daedra,9,,,,,,,,,,,
+,atronach_frost_BM,atronach_frost_bm,Dire Frost Atronach,Daedra,24,,,,,,,,,,,
+,atronach_frost_gwai_uni,atronach_frost_gwai_uni,Nomeg Gwai,Daedra,12,,,,,,,,,,,
+,atronach_frost_summon,atronach_frost_summon,Frost  Atronach,Daedra,9,,,,,,,,,,,
+,atronach_frost_ttmk,atronach_frost_ttmk,Frost  Atronach,Daedra,9,,,,,,,,,,,
+,atronach_storm,atronach_storm,Storm Atronach,Daedra,15,,,,,,,,,,,
+,atronach_storm_az,atronach_storm_az,Storm Atronach,Daedra,15,,,,,,,,,,,
+,atronach_storm_summon,atronach_storm_summon,Storm Atronach,Daedra,15,,,,,,,,,,,
+,atronach_storm_ttmk,atronach_storm_ttmk,Storm Atronach,Daedra,13,,,,,,,,,,,
+,bm skeleton champion gr,bm skeleton champion gr,Greater Skeleton Champion,Undead,20,,,,,,,,,,,
+,BM_bear_be_UNIQUE,bm_bear_be_unique,The Good Beast,Creature,15,,,,,,,,,,,
+,BM_bear_black,bm_bear_black,Grizzly Bear,Creature,10,,,,,,,,,,,
+,BM_bear_black_Claw_UNIQ,bm_bear_black_claw_uniq,Grizzly Bear,Creature,1,,,,,,,,,,,
+,BM_bear_black_fat,bm_bear_black_fat,Grizzly Bear,Creature,10,,,,,,,,,,,
+,BM_bear_black_summon,bm_bear_black_summon,Grizzly Bear,Creature,10,,,,,,,,,,,
+,BM_bear_brown,bm_bear_brown,Plague Bear,Creature,10,,,,,,,,,,,
+,BM_bear_snow_unique,bm_bear_snow_unique,Snow Bear,Creature,10,,,,,,,,,,,
+,BM_bear_SPR_UNIQUE,bm_bear_spr_unique,Spirit Bear,Creature,25,,,,,,,,,,,
+,BM_draugr01,bm_draugr01,Draugr,Creature,20,,,,,,,,,,,
+,BM_draugr_bloodskal,bm_draugr_bloodskal,Draugr,Creature,20,,,,,,,,,,,
+,BM_frost_boar,bm_frost_boar,Tusked Bristleback,Creature,15,,,,,,,,,,,
+,bm_frost_giant,bm_frost_giant,Karstaag,Creature,40,,,,,,,,,,,
+,BM_hircine,bm_hircine,Hircine,Daedra,100,,,,,,,,,,,
+,BM_hircine2,bm_hircine2,Hircine's Aspect of Guile,Daedra,100,,,,,,,,,,,
+,BM_hircine_huntaspect,bm_hircine_huntaspect,Hircine's Aspect of Speed,Daedra,100,,,,,,,,,,,
+,BM_hircine_spdaspect,bm_hircine_spdaspect,Hircine's Aspect of Strength,Daedra,100,,,,,,,,,,,
+,BM_hircine_straspect,bm_hircine_straspect,Hircine,Daedra,1,,,,,,,,,,,
+,BM_horker,bm_horker,Horker,Creature,5,,,,,,,,,,,
+,BM_horker_large,bm_horker_large,Horker,Creature,10,,,,,,,,,,,
+,BM_horker_swim_UNIQUE,bm_horker_swim_unique,The Swimmer,Creature,10,,,,,,,,,,,
+,BM_ice_troll,bm_ice_troll,Grahl,Creature,1,,,,,,,,,,,
+,BM_ice_troll_sun,bm_ice_troll_sun,Lightkeeper Grahl,Creature,1,,,,,,,,,,,
+,BM_ice_troll_tough,bm_ice_troll_tough,Fearsome Grahl,Creature,10,,,,,,,,,,,
+,BM_icetroll_FG_Uni,bm_icetroll_fg_uni,Deadly Grahl,Creature,20,,,,,,,,,,,
+,BM_riekling,bm_riekling,Riekling,Creature,10,,,,,,,,,,,
+,BM_riekling_be_UNIQUE,bm_riekling_be_unique,Riekling,Creature,15,,,,,,,,,,,
+,BM_riekling_be_UNIQUE1,bm_riekling_be_unique1,Riekling,Creature,15,,,,,,,,,,,
+,BM_riekling_be_UNIQUE2,bm_riekling_be_unique2,Riekling,Creature,15,,,,,,,,,,,
+,BM_riekling_be_UNIQUE3,bm_riekling_be_unique3,Riekling,Creature,15,,,,,,,,,,,
+,BM_riekling_be_UNIQUE4,bm_riekling_be_unique4,Riekling,Creature,15,,,,,,,,,,,
+,BM_riekling_be_UNIQUE5,bm_riekling_be_unique5,Riekling,Creature,1,,,,,,,,,,,
+,BM_riekling_boarmaster,bm_riekling_boarmaster,Riekling Boarmaster,Creature,20,,,,,,,,,,,
+,BM_riekling_Dulk_UNIQUE,bm_riekling_dulk_unique,Dulk,Creature,15,,,,,,,,,,,
+,BM_riekling_Krish_UNIQU,bm_riekling_krish_uniqu,Krish,Creature,15,,,,,,,,,,,
+,BM_riekling_mounted,bm_riekling_mounted,Riekling Raider,Creature,20,,,,,,,,,,,
+,BM_riekling_st_UNIQUE,bm_riekling_st_unique,Riekling,Creature,20,,,,,,,,,,,
+,bm_sk_champ_bloodskal01,bm_sk_champ_bloodskal01,Greater Skeleton Champion,Undead,20,,,,,,,,,,,
+,bm_sk_champ_bloodskal02,bm_sk_champ_bloodskal02,Greater Skeleton Champion,Undead,20,,,,,,,,,,,
+,bm_skeleton_pirate ,bm_skeleton_pirate ,Skeleton Pirate,Undead,25,,,,,,,,,,,
+,bm_skeleton_pirate_capt,bm_skeleton_pirate_capt,Skeleton Pirate Captain,Undead,35,,,,,,,,,,,
+,BM_spriggan,bm_spriggan,Spriggan,Creature,20,,,,,,,,,,,
+,BM_spriggan_co1,bm_spriggan_co1,Spriggan,Creature,20,,,,,,,,,,,
+,BM_spriggan_co2,bm_spriggan_co2,Spriggan,Creature,20,,,,,,,,,,,
+,BM_spriggan_co3,bm_spriggan_co3,Spriggan,Creature,20,,,,,,,,,,,
+,BM_spriggan_co4,bm_spriggan_co4,Spriggan,Creature,20,,,,,,,,,,,
+,BM_spriggan_st_UNIQUE,bm_spriggan_st_unique,Spriggan,Creature,20,,,,,,,,,,,
+,BM_udyrfrykte,bm_udyrfrykte,The Udyrfrykte,Creature,11,,,,,,,,,,,
+,BM_werewolf_default,bm_werewolf_default,Werewolf,Creature,10,,,,,,,,,,,
+,BM_werewolf_ritual,bm_werewolf_ritual,Werewolf Innocent,Creature,50,,,,,,,,,,,
+,BM_wolf_bone_summon,bm_wolf_bone_summon,Bonewolf,Undead,10,,,,,,,,,,,
+,BM_wolf_caenlorn1,bm_wolf_caenlorn1,Caenlorn Wolf,Creature,20,,,,,,,,,,,
+,BM_wolf_caenlorn2,bm_wolf_caenlorn2,Caenlorn Wolf,Creature,20,,,,,,,,,,,
+,BM_wolf_caenlorn3,bm_wolf_caenlorn3,Caenlorn Wolf,Creature,20,,,,,,,,,,,
+,BM_wolf_grey,bm_wolf_grey,Wolf,Creature,5,,,,,,,,,,,
+,BM_wolf_grey_lvl_1,bm_wolf_grey_lvl_1,Wolf,Creature,1,,,,,,,,,,,
+,BM_wolf_grey_summon,bm_wolf_grey_summon,Wolf,Creature,5,,,,,,,,,,,
+,BM_wolf_hroldar,bm_wolf_hroldar,Wolf,Creature,5,,,,,,,,,,,
+,BM_wolf_red,bm_wolf_red,Plague Wolf,Creature,5,,,,,,,,,,,
+,BM_wolf_skeleton,bm_wolf_skeleton,Bonewolf,Undead,10,,,,,,,,,,,
+,BM_wolf_snow_unique,bm_wolf_snow_unique,Snow Wolf,Creature,10,,,,,,,,,,,
+,bonelord,bonelord,Bonelord,Undead,8,,,,,,,,,,,
+,bonelord_summon,bonelord_summon,Bonelord,Undead,8,,,,,,,,,,,
+,bonewalker,bonewalker,Bonewalker,Undead,4,,,,,,,,,,,
+,Bonewalker_Greater,bonewalker_greater,Greater Bonewalker,Undead,7,,,,,,,,,,,
+,Bonewalker_Greater_summ,bonewalker_greater_summ,Greater Bonewalker,Undead,7,,,,,,,,,,,
+,bonewalker_summon,bonewalker_summon,Bonewalker,Undead,4,,,,,,,,,,,
+,bonewalker_weak,bonewalker_weak,Lesser Bonewalker,Undead,3,,,,,,,,,,,
+,centurion_Mudan_unique,centurion_mudan_unique,Steam Guardian,Creature,18,,,,,,,,,,,
+,centurion_projectile,centurion_projectile,Centurion Archer,Creature,10,,,,,,,,,,,
+,centurion_projectile_C,centurion_projectile_c,Centurion Archer,Creature,10,,,,,,,,,,,
+,centurion_shock_baladas,centurion_shock_baladas,Shock Centurion,Creature,8,,,,,,,,,,,
+,centurion_sphere,centurion_sphere,Centurion Sphere,Creature,5,,,,,,,,,,,
+,centurion_sphere_bbot1,centurion_sphere_bbot1,Centurion Sphere,Creature,10,,,,,,,,,,,
+,centurion_sphere_bbot5,centurion_sphere_bbot5,Centurion Sphere,Creature,5,,,,,,,,,,,
+,centurion_sphere_bbot6,centurion_sphere_bbot6,Centurion Sphere,Creature,5,,,,,,,,,,,
+,centurion_sphere_hts2,centurion_sphere_hts2,Centurion Sphere,Creature,5,,,,,,,,,,,
+,centurion_sphere_nchur,centurion_sphere_nchur,Centurion Sphere,Creature,5,,,,,,,,,,,
+,centurion_sphere_summon,centurion_sphere_summon,Centurion Sphere,Creature,5,,,,,,,,,,,
+,centurion_spider,centurion_spider,Centurion Spider,Creature,3,,,,,,,,,,,
+,centurion_spider_bbot1,centurion_spider_bbot1,Centurion Spider,Creature,3,,,,,,,,,,,
+,centurion_spider_bbot3,centurion_spider_bbot3,Centurion Spider,Creature,3,,,,,,,,,,,
+,centurion_spider_bbot7,centurion_spider_bbot7,Centurion Spider,Creature,3,,,,,,,,,,,
+,centurion_spider_nchur,centurion_spider_nchur,Centurion Spider,Creature,3,,,,,,,,,,,
+,centurion_spider_tga1,centurion_spider_tga1,Spider Centurion,Creature,3,,,,,,,,,,,
+,centurion_spider_tga2,centurion_spider_tga2,Spider Centurion,Creature,3,,,,,,,,,,,
+,centurion_steam,centurion_steam,Steam Centurion,Creature,10,,,,,,,,,,,
+,centurion_steam_A_C,centurion_steam_a_c,Advanced Steam Centurion,Creature,20,,,,,,,,,,,
+,centurion_steam_advance,centurion_steam_advance,Advanced Steam Centurion,Creature,20,,,,,,,,,,,
+,centurion_steam_bbot2,centurion_steam_bbot2,Steam Centurion,Creature,10,,,,,,,,,,,
+,centurion_steam_bbot4,centurion_steam_bbot4,Steam Centurion,Creature,10,,,,,,,,,,,
+,centurion_steam_bbot8,centurion_steam_bbot8,Steam Centurion,Creature,10,,,,,,,,,,,
+,centurion_steam_C_L,centurion_steam_c_l,Advanced Steam Centurion,Creature,30,,,,,,,,,,,
+,centurion_steam_exhibit,centurion_steam_exhibit,Steam Centurion,Creature,10,,,,,,,,,,,
+,centurion_steam_hts,centurion_steam_hts,Steam Centurion,Creature,10,,,,,,,,,,,
+,centurion_steam_nchur,centurion_steam_nchur,Steam Centurion,Creature,10,,,,,,,,,,,
+,clannfear,clannfear,Clannfear,Daedra,7,,,,,,,,,,,
+,clannfear_summon,clannfear_summon,Clannfear,Daedra,7,,,,,,,,,,,
+,cliff racer,cliff racer,Cliff Racer,Creature,4,,,,,,,,,,,
+,cliff racer_blighted,cliff racer_blighted,Blighted Cliff Racer,Creature,8,,,,,,,,,,,
+,cliff racer_diseased,cliff racer_diseased,Diseased Cliff Racer,Creature,4,,,,,,,,,,,
+,corprus_lame,corprus_lame,Lame Corprus ,Humanoid,8,,,,,,,,,,,
+,corprus_lame_fyr01,corprus_lame_fyr01,Lame Corprus ,Humanoid,8,,,,,,,,,,,
+,corprus_lame_fyr02,corprus_lame_fyr02,Lame Corprus ,Humanoid,8,,,,,,,,,,,
+,corprus_lame_fyr03,corprus_lame_fyr03,Lame Corprus ,Humanoid,8,,,,,,,,,,,
+,corprus_lame_fyr04,corprus_lame_fyr04,Lame Corprus ,Humanoid,8,,,,,,,,,,,
+,corprus_lame_morvayn,corprus_lame_morvayn,Lame Corprus ,Humanoid,8,,,,,,,,,,,
+,corprus_stalker,corprus_stalker,Corprus Stalker,Humanoid,5,,,,,,,,,,,
+,corprus_stalker_berwen,corprus_stalker_berwen,Corprus Stalker,Humanoid,5,,,,,,,,,,,
+,corprus_stalker_danar,corprus_stalker_danar,Corprus Stalker,Humanoid,5,,,,,,,,,,,
+,corprus_stalker_fgcs,corprus_stalker_fgcs,Corprus Stalker,Humanoid,5,,,,,,,,,,,
+,corprus_stalker_fyr01,corprus_stalker_fyr01,Corprus Stalker,Humanoid,5,,,,,,,,,,,
+,corprus_stalker_fyr02,corprus_stalker_fyr02,Corprus Stalker,Humanoid,5,,,,,,,,,,,
+,corprus_stalker_fyr03,corprus_stalker_fyr03,Corprus Stalker,Humanoid,5,,,,,,,,,,,
+,corprus_stalker_morvayn,corprus_stalker_morvayn,Corprus Stalker,Humanoid,5,,,,,,,,,,,
+,daedroth,daedroth,Daedroth,Daedra,12,,,,,,,,,,,
+,daedroth_az,daedroth_az,Daedroth,Daedra,12,,,,,,,,,,,
+,daedroth_baladas,daedroth_baladas,Daedroth,Daedra,12,,,,,,,,,,,
+,daedroth_fg_nchur,daedroth_fg_nchur,Hrelvesuu,Daedra,12,,,,,,,,,,,
+,daedroth_menta_unique,daedroth_menta_unique,Menta Na,Daedra,20,,,,,,,,,,,
+,daedroth_summon,daedroth_summon,Daedroth,Daedra,12,,,,,,,,,,,
+,dagoth aladus,dagoth aladus,Dagoth Aladus,Humanoid,16,,,,,,,,,,,
+,dagoth araynys,dagoth araynys,Dagoth Araynys,Humanoid,30,,,,,,,,,,,
+,dagoth baler,dagoth baler,Dagoth Baler,Undead,16,,,,,,,,,,,
+,dagoth daynil,dagoth daynil,Dagoth Daynil,Humanoid,16,,,,,,,,,,,
+,dagoth delnus,dagoth delnus,Dagoth Delnus,Humanoid,16,,,,,,,,,,,
+,dagoth drals,dagoth drals,Dagoth Drals,Humanoid,16,,,,,,,,,,,
+,Dagoth Draven,dagoth draven,Dagoth Draven,Humanoid,16,,,,,,,,,,,
+,dagoth elam,dagoth elam,Dagoth Elam,Humanoid,16,,,,,,,,,,,
+,dagoth endus,dagoth endus,Dagoth Endus,Humanoid,30,,,,,,,,,,,
+,dagoth fals,dagoth fals,Dagoth Fals,Humanoid,16,,,,,,,,,,,
+,dagoth fandril,dagoth fandril,Dagoth Fandril,Humanoid,20,,,,,,,,,,,
+,dagoth felmis,dagoth felmis,Dagoth Felmis,Humanoid,20,,,,,,,,,,,
+,dagoth fervas,dagoth fervas,Dagoth Fervas,Humanoid,16,,,,,,,,,,,
+,dagoth fovon,dagoth fovon,Dagoth Fovon,Humanoid,16,,,,,,,,,,,
+,dagoth galmis,dagoth galmis,Dagoth Galmis,Humanoid,16,,,,,,,,,,,
+,dagoth garel,dagoth garel,Dagoth Garel,Humanoid,20,,,,,,,,,,,
+,dagoth gares,dagoth gares,Dagoth Gares,Humanoid,14,,,,,,,,,,,
+,dagoth gilvoth,dagoth gilvoth,Dagoth Gilvoth,Humanoid,30,,,,,,,,,,,
+,dagoth girer,dagoth girer,Dagoth Girer,Humanoid,16,,,,,,,,,,,
+,dagoth goral,dagoth goral,Dagoth Goral,Humanoid,20,,,,,,,,,,,
+,dagoth ienas,dagoth ienas,Dagoth Ienas,Humanoid,16,,,,,,,,,,,
+,dagoth irvyn,dagoth irvyn,Dagoth Irvyn,Humanoid,20,,,,,,,,,,,
+,dagoth malan,dagoth malan,Dagoth Malan,Humanoid,20,,,,,,,,,,,
+,dagoth mendras,dagoth mendras,Dagoth Mendras,Humanoid,16,,,,,,,,,,,
+,dagoth molos,dagoth molos,Dagoth Molos,Humanoid,20,,,,,,,,,,,
+,dagoth mulis,dagoth mulis,Dagoth Mulis,Humanoid,16,,,,,,,,,,,
+,dagoth muthes,dagoth muthes,Dagoth Muthes,Humanoid,16,,,,,,,,,,,
+,dagoth nilor,dagoth nilor,Dagoth Nilor,Humanoid,16,,,,,,,,,,,
+,dagoth odros,dagoth odros,Dagoth Odros,Humanoid,30,,,,,,,,,,,
+,dagoth ralas,dagoth ralas,Dagoth Ralas,Humanoid,16,,,,,,,,,,,
+,dagoth rather,dagoth rather,Dagoth Rather,Humanoid,20,,,,,,,,,,,
+,dagoth reler,dagoth reler,Dagoth Reler,Humanoid,20,,,,,,,,,,,
+,dagoth soler,dagoth soler,Dagoth Soler,Humanoid,16,,,,,,,,,,,
+,dagoth tanis,dagoth tanis,Dagoth Tanis,Humanoid,20,,,,,,,,,,,
+,dagoth tureynul,dagoth tureynul,Dagoth Tureynul,Humanoid,30,,,,,,,,,,,
+,dagoth ulen,dagoth ulen,Dagoth Ulen,Humanoid,20,,,,,,,,,,,
+,dagoth uthol,dagoth uthol,Dagoth Uthol,Humanoid,30,,,,,,,,,,,
+,dagoth uvil,dagoth uvil,Dagoth Uvil,Humanoid,20,,,,,,,,,,,
+,dagoth vaner,dagoth vaner,Dagoth Vaner,Humanoid,20,,,,,,,,,,,
+,dagoth velos,dagoth velos,Dagoth Velos,Humanoid,16,,,,,,,,,,,
+,dagoth vemyn,dagoth vemyn,Dagoth Vemyn,Humanoid,30,,,,,,,,,,,
+,dagoth_hlevul,dagoth_hlevul,Dagoth Hlevul,Humanoid,18,,,,,,,,,,,
+,dagoth_ur_1,dagoth_ur_1,Dagoth Ur,Humanoid,35,,,,,,,,,,,
+,dagoth_ur_2,dagoth_ur_2,Dagoth Ur,Humanoid,35,,,,,,,,,,,
+,Dahrk Mezalf,dahrk mezalf,Dahrk Mezalf,Undead,10,,,,,,,,,,,
+,draugr,draugr,draugr,Creature,10,,,,,,,,,,,
+,draugr_aesliip,draugr_aesliip,Draugr Lord Aesliip,Creature,50,,,,,,,,,,,
+,draugr_co_3,draugr_co_3,Draugr,Creature,10,,,,,,,,,,,
+,draugr_valbrandr,draugr_valbrandr,Valbrandr draugr,Creature,10,,,,,,,,,,,
+,dremora,dremora,Dremora,Daedra,9,,,,,,,,,,,
+,dremora_gothren_guard1,dremora_gothren_guard1,Dremora,Daedra,9,,,,,,,,,,,
+,dremora_gothren_guard2,dremora_gothren_guard2,Dremora,Daedra,9,,,,,,,,,,,
+,dremora_lord,dremora_lord,Dremora Lord,Daedra,12,,,,,,,,,,,
+,dremora_lord_khash_uni,dremora_lord_khash_uni,Khash-Ti Dhrur,Daedra,12,,,,,,,,,,,
+,dremora_special_Fyr,dremora_special_fyr,Lord Dregas Volar,Daedra,18,,,,,,,,,,,
+,dremora_summon,dremora_summon,Dremora,Daedra,9,,,,,,,,,,,
+,dremora_ttmg,dremora_ttmg,Anhaedra,Daedra,9,,,,,,,,,,,
+,dremora_ttpc,dremora_ttpc,Krazzt,Daedra,6,,,,,,,,,,,
+,dreugh,dreugh,Dreugh,Creature,5,,,,,,,,,,,
+,dreugh_koal,dreugh_koal,Dreugh Warlord,Creature,20,,,,,,,,,,,
+,durzog_diseased,durzog_diseased,Diseased Durzog,Creature,10,,,,,,,,,,,
+,durzog_war,durzog_war,War Durzog,Creature,15,,,,,,,,,,,
+,durzog_war_trained,durzog_war_trained,War Durzog,Creature,10,,,,,,,,,,,
+,durzog_wild,durzog_wild,Wild Durzog,Creature,10,,,,,,,,,,,
+,durzog_wild_weaker,durzog_wild_weaker,Wild Durzog,Creature,5,,,,,,,,,,,
+,dwarven ghost,dwarven ghost,Dwarven Spectre,Undead,5,,,,,,,,,,,
+,dwarven ghost_jeanne_U,dwarven ghost_jeanne_u,Dwarven Spectre,Undead,5,,,,,,,,,,,
+,dwarven ghost_radac,dwarven ghost_radac,Radac Stungnthumz,Undead,25,,,,,,,,,,,
+,fabricant_hulkin_attack,fabricant_hulkin_attack,Hulking Fabricant,Creature,20,,,,,,,,,,,
+,fabricant_hulking,fabricant_hulking,Hulking Fabricant,Creature,30,,,,,,,,,,,
+,fabricant_hulking_attac,fabricant_hulking_attac,Hulking Fabricant,Creature,20,,,,,,,,,,,
+,fabricant_hulking_C,fabricant_hulking_c,Hulking Fabricant,Creature,20,,,,,,,,,,,
+,fabricant_hulking_C_L,fabricant_hulking_c_l,Hulking Fabricant,Creature,20,,,,,,,,,,,
+,fabricant_hulking_ss,fabricant_hulking_ss,Hulking Fabricant,Creature,30,,,,,,,,,,,
+,fabricant_machine_1,fabricant_machine_1,Verminous Fabricant,Creature,2,,,,,,,,,,,
+,fabricant_summon,fabricant_summon,Verminous Fabricant,Creature,2,,,,,,,,,,,
+,fabricant_verm_attack,fabricant_verm_attack,Verminous Fabricant,Creature,10,,,,,,,,,,,
+,fabricant_verminous,fabricant_verminous,Verminous Fabricant,Creature,10,,,,,,,,,,,
+,fabricant_verminous-rs,fabricant_verminous-rs,Verminous Fabricant,Creature,10,,,,,,,,,,,
+,fabricant_verminous_C,fabricant_verminous_c,Verminous Fabricant,Creature,10,,,,,,,,,,,
+,gateway_haunt,gateway_haunt,Gateway Haunt,Undead,1,,,,,,,,,,,
+,glenmoril_raven,glenmoril_raven,Ettiene of Glenmoril Wyrd,Creature,4,,,,,,,,,,,
+,glenmoril_raven_cave,glenmoril_raven_cave,Ettiene of Glenmoril Wyrd,Creature,4,,,,,,,,,,,
+,goblin_bruiser,goblin_bruiser,Goblin Bruiser,Creature,20,,,,,,,,,,,
+,goblin_footsoldier,goblin_footsoldier,Goblin Footsoldier,Creature,13,,,,,,,,,,,
+,goblin_grunt,goblin_grunt,Goblin,Creature,7,,,,,,,,,,,
+,goblin_handler,goblin_handler,Goblin Handler,Creature,20,,,,,,,,,,,
+,goblin_officer,goblin_officer,Goblin Officer,Creature,25,,,,,,,,,,,
+,goblin_officerUNI,goblin_officeruni,Goblin Officer,Creature,25,,,,,,,,,,,
+,goblin_warchief1,goblin_warchief1,Warchief Durgoc,Creature,35,,,,,,,,,,,
+,goblin_warchief2,goblin_warchief2,Warchief Kurog,Creature,35,,,,,,,,,,,
+,golden saint,golden saint,Golden Saint,Daedra,20,,,,,,,,,,,
+,golden saint_staada,golden saint_staada,Staada,Creature,22,,,,,,,,,,,
+,golden saint_summon,golden saint_summon,Golden Saint,Daedra,20,,,,,,,,,,,
+,golden saint_velas1,golden saint_velas1,Golden Saint,Daedra,20,,,,,,,,,,,
+,golden saint_velas2,golden saint_velas2,Golden Saint,Daedra,20,,,,,,,,,,,
+,guar,guar,Guar,Creature,3,,,,,,,,,,,
+,guar_feral,guar_feral,Wild Guar,Creature,3,,,,,,,,,,,
+,guar_llovyn_unique,guar_llovyn_unique,Corky,Creature,3,,,,,,,,,,,
+,guar_pack,guar_pack,Pack Guar,Creature,3,,,,,,,,,,,
+,guar_pack_tarvyn_unique,guar_pack_tarvyn_unique,Tarvyn's Guar,Creature,3,,,,,,,,,,,
+,guar_rollie_unique,guar_rollie_unique,Rollie the Guar,Creature,3,,,,,,,,,,,
+,guar_white_unique,guar_white_unique,The White Guar,Creature,3,,,,,,,,,,,
+,heart_akulakhan,heart_akulakhan,Heart of Lorkhan,Daedra,1,,,,,,,,,,,
+,hunger,hunger,Hunger,Daedra,11,,,,,,,,,,,
+,hunger_audenian,hunger_audenian,Hunger,Daedra,11,,,,,,,,,,,
+,hunger_az_01,hunger_az_01,Hunger,Daedra,11,,,,,,,,,,,
+,hunger_az_02,hunger_az_02,Hunger,Daedra,11,,,,,,,,,,,
+,hunger_fghl,hunger_fghl,Hunger,Daedra,1,,,,,,,,,,,
+,hunger_summon,hunger_summon,Hunger,Creature,11,,,,,,,,,,,
+,Imperfect,imperfect,Imperfect,Creature,80,,,,,,,,,,,
+,kagouti,kagouti,Kagouti,Creature,4,,,,,,,,,,,
+,kagouti_blighted,kagouti_blighted,Blighted Kagouti,Creature,8,,,,,,,,,,,
+,kagouti_diseased,kagouti_diseased,Diseased Kagouti,Creature,4,,,,,,,,,,,
+,kagouti_hrk,kagouti_hrk,Kagouti,Creature,4,,,,,,,,,,,
+,kagouti_mating,kagouti_mating,Mating Kagouti,Creature,5,,,,,,,,,,,
+,kwama forager,kwama forager,Kwama Forager,Creature,2,,,,,,,,,,,
+,kwama forager blighted,kwama forager blighted,Kwama Forager,Creature,6,,,,,,,,,,,
+,kwama forager_tb,kwama forager_tb,Kwama Forager,Creature,2,,,,,,,,,,,
+,Kwama Queen,kwama queen,Kwama Queen,Creature,6,,,,,,,,,,,
+,Kwama Queen_Abaesen,kwama queen_abaesen,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_ahanibi,kwama queen_ahanibi,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_akimaes,kwama queen_akimaes,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_eluba,kwama queen_eluba,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_eretammus,kwama queen_eretammus,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_gnisis,kwama queen_gnisis,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_hairat,kwama queen_hairat,Kwama Queen,Creature,1,,,,,,,,,,,
+,Kwama Queen_HHEM,kwama queen_hhem,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_madas,kwama queen_madas,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_maesa,kwama queen_maesa,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_matus,kwama queen_matus,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_mudan,kwama queen_mudan,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_mudan_c,kwama queen_mudan_c,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_panabanit,kwama queen_panabanit,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_sarimisun,kwama queen_sarimisun,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_shurdan,kwama queen_shurdan,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_shurdan_c,kwama queen_shurdan_c,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_sinamusa,kwama queen_sinamusa,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama queen_zalkin,kwama queen_zalkin,Kwama Queen,Creature,1,,,,,,,,,,,
+,kwama warrior,kwama warrior,Kwama Warrior,Creature,3,,,,,,,,,,,
+,kwama warrior blighted,kwama warrior blighted,Kwama Warrior,Creature,7,,,,,,,,,,,
+,kwama warrior shurdan,kwama warrior shurdan,Blighted Kwama Warrior,Creature,7,,,,,,,,,,,
+,kwama worker,kwama worker,Kwama Worker,Creature,2,,,,,,,,,,,
+,kwama worker blighted,kwama worker blighted,Kwama Worker,Creature,6,,,,,,,,,,,
+,kwama worker diseased,kwama worker diseased,Diseased Kwama Worker,Creature,2,,,,,,,,,,,
+,kwama worker entrance,kwama worker entrance,Kwama Worker,Undead,2,,,,,,,,,,,
+,lich,lich,Lich,Undead,20,,,,,,,,,,,
+,lich_barilzar,lich_barilzar,Barilzar,Undead,45,,,,,,,,,,,
+,lich_profane_unique,lich_profane_unique,Profane Acolyte,Undead,20,,,,,,,,,,,
+,lich_relvel,lich_relvel,Gedna Relvel,Daedra,40,,,,,,,,,,,
+,lustidrike,lustidrike,Lustidrike,Creature,8,,,,,,,,,,,
+,mudcrab,mudcrab,Mudcrab,Creature,1,,,,,,,,,,,
+,mudcrab-Diseased,mudcrab-diseased,Diseased Mudcrab,Creature,1,,,,,,,,,,,
+,mudcrab_hrmudcrabnest,mudcrab_hrmudcrabnest,Mudcrab,Creature,1,,,,,,,,,,,
+,mudcrab_unique,mudcrab_unique,Mudcrab,Creature,1,,,,,,,,,,,
+,netch_betty,netch_betty,Betty Netch,Creature,10,,,,,,,,,,,
+,netch_betty_ilgn,netch_betty_ilgn,Betty Netch,Creature,10,,,,,,,,,,,
+,netch_betty_ranched,netch_betty_ranched,Betty Netch,Creature,10,,,,,,,,,,,
+,netch_bull,netch_bull,Bull Netch,Creature,4,,,,,,,,,,,
+,netch_bull_ilgn,netch_bull_ilgn,Bull Netch,Creature,4,,,,,,,,,,,
+,netch_bull_ranched,netch_bull_ranched,Bull Netch,Creature,4,,,,,,,,,,,
+,Netch_Giant_UNIQUE,netch_giant_unique,Giant Bull Netch,Creature,4,,,,,,,,,,,
+,nix-hound,nix-hound,Nix-Hound,Creature,2,,,,,,,,,,,
+,nix-hound blighted,nix-hound blighted,Blighted Nix-Hound,Daedra,6,,,,,,,,,,,
+,ogrim,ogrim,Ogrim,Daedra,11,,,,,,,,,,,
+,ogrim titan,ogrim titan,Ogrim Titan,Daedra,15,,,,,,,,,,,
+,ogrim titan_velas,ogrim titan_velas,Ogrim Titan,Daedra,15,,,,,,,,,,,
+,ogrim_az,ogrim_az,Ogrim,Creature,11,,,,,,,,,,,
+,Rat,rat,Rat,Creature,2,,,,,,,,,,,
+,rat_blighted,rat_blighted,Blighted Rat,Creature,4,,,,,,,,,,,
+,rat_cave_fgrh,rat_cave_fgrh,Cave Rat,Creature,3,,,,,,,,,,,
+,rat_cave_fgt,rat_cave_fgt,Cave Rat,Creature,3,,,,,,,,,,,
+,rat_cave_hhte1,rat_cave_hhte1,Game Rat,Creature,4,,,,,,,,,,,
+,rat_cave_hhte2,rat_cave_hhte2,Blighted Game Rat,Creature,4,,,,,,,,,,,
+,rat_diseased,rat_diseased,Diseased Rat,Creature,3,,,,,,,,,,,
+,Rat_pack_rerlas,rat_pack_rerlas,Pack Rat,Creature,5,,,,,,,,,,,
+,Rat_plague,rat_plague,Infected Rat,Creature,2,,,,,,,,,,,
+,Rat_plague_hall1,rat_plague_hall1,Infected Rat,Creature,2,,,,,,,,,,,
+,Rat_plague_hall1a,rat_plague_hall1a,Infected Rat,Creature,2,,,,,,,,,,,
+,Rat_plague_hall2,rat_plague_hall2,Infected Rat,Creature,2,,,,,,,,,,,
+,Rat_rerlas,rat_rerlas,Rat,Creature,5,,,,,,,,,,,
+,rat_telvanni_unique,rat_telvanni_unique,Telvanni Sewer Rat,Creature,2,,,,,,,,,,,
+,rat_telvanni_unique_2,rat_telvanni_unique_2,Telvanni Sewer Rat,Daedra,2,,,,,,,,,,,
+,scamp,scamp,Scamp,Daedra,5,,,,,,,,,,,
+,scamp_creeper,scamp_creeper,Creeper,Daedra,5,,,,,,,,,,,
+,scamp_mg_apprentice,scamp_mg_apprentice,Scamp,Daedra,5,,,,,,,,,,,
+,scamp_summon,scamp_summon,Scamp,Creature,5,,,,,,,,,,,
+,scrib,scrib,Scrib,Creature,1,,,,,,,,,,,
+,scrib blighted,scrib blighted,Hive Scrib,Creature,4,,,,,,,,,,,
+,scrib diseased,scrib diseased,Blighted Scrib,Creature,1,,,,,,,,,,,
+,scrib_rerlas,scrib_rerlas,Diseased Scrib,Creature,5,,,,,,,,,,,
+,scrib_vaba-amus,scrib_vaba-amus,Scrib,Creature,1,,,,,,,,,,,
+,shalk,shalk,Shalk,Creature,6,,,,,,,,,,,
+,shalk_blighted,shalk_blighted,Blighted Shalk,Creature,10,,,,,,,,,,,
+,shalk_diseased,shalk_diseased,Diseased Shalk,Creature,6,,,,,,,,,,,
+,shalk_diseased_hram,shalk_diseased_hram,Diseased Shalk,Creature,5,,,,,,,,,,,
+,skeleton,skeleton,Skeleton,Undead,3,,,,,,,,,,,
+,skeleton archer,skeleton archer,Skeleton Archer,Undead,3,,,,,,,,,,,
+,skeleton champ_sandas00,skeleton champ_sandas00,Skeleton Champion,Undead,10,,,,,,,,,,,
+,skeleton champ_sandas10,skeleton champ_sandas10,Skeleton Champion,Undead,10,,,,,,,,,,,
+,skeleton champion,skeleton champion,Skeleton Champion,Undead,10,,,,,,,,,,,
+,skeleton entrance,skeleton entrance,Skeleton,Undead,2,,,,,,,,,,,
+,skeleton nord ,skeleton nord ,Skeleton Berserker,Undead,10,,,,,,,,,,,
+,skeleton nord_2,skeleton nord_2,Skeleton Berserker,Undead,10,,,,,,,,,,,
+,skeleton warrior,skeleton warrior,Skeleton Warrior,Undead,7,,,,,,,,,,,
+,skeleton_aldredaynia,skeleton_aldredaynia,Skeleton War-Wizard,Undead,20,,,,,,,,,,,
+,skeleton_relvel,skeleton_relvel,Skeleton Champion,Undead,10,,,,,,,,,,,
+,skeleton_stahl_uni,skeleton_stahl_uni,Skeleton Berserker,Undead,20,,,,,,,,,,,
+,skeleton_summon,skeleton_summon,Skeleton,Undead,3,,,,,,,,,,,
+,skeleton_Vemynal,skeleton_vemynal,Beldoh the Undying,Undead,14,,,,,,,,,,,
+,skeleton_weak,skeleton_weak,Crippled Skeleton,Undead,3,,,,,,,,,,,
+,slaughterfish,slaughterfish,Slaughterfish,Creature,2,,,,,,,,,,,
+,slaughterfish_hr_sfavd,slaughterfish_hr_sfavd,Old Blue Fin,Creature,2,,,,,,,,,,,
+,Slaughterfish_Small,slaughterfish_small,Small Slaughterfish,Creature,2,,,,,,,,,,,
+,vivec_god,vivec_god,Vivec,Creature,100,,,,,,,,,,,
+,winged twilight,winged twilight,Winged Twilight,Daedra,15,,,,,,,,,,,
+,winged twilight_grunda_,winged twilight_grunda_,Molag Grunda,Daedra,20,,,,,,,,,,,
+,winged twilight_summon,winged twilight_summon,Winged Twilight,Daedra,15,,,,,,,,,,,
+,worm lord,worm lord,Worm Lord,Undead,16,,,,,,,,,,,
+,wraith_sul_senipul,wraith_sul_senipul,Wraith of Sul-Senipul,Undead,10,,,,,,,,,,,
+,yagrum bagarn,yagrum bagarn,Yagrum Bagarn,Creature,40,,,,,,,,,,,
