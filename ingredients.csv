@@ -1,4 +1,4 @@
-﻿;Morrowind;OpenMW/TES3MP;Name;Weight;Value;Effect 1;Effect 2;Effect 3;Effect 4;
+;Morrowind;OpenMW/TES3MP;Name;Weight;Value;Effect 1;Effect 2;Effect 3;Effect 4;
 ;food_kwama_egg_01;food_kwama_egg_01;Small Kwama Egg;0.5;1;Restore Fatigue;;;;
 ;food_kwama_egg_02;food_kwama_egg_02;Large Kwama Egg;2.0;2;Restore Fatigue;Paralyze;Frost Shield;Fortify Health;
 ;ingred_6th_corprusmeat_01;ingred_6th_corprusmeat_01;Large Wrapped Corprusmeat;1.0;0;Drain Fatigue;Drain Health;Drain Magicka;;
