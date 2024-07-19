@@ -1,4 +1,4 @@
-### IDs and data to reduce search and typing effort. Also, OpenMW/TES3MP IDs.
+### IDs and data to reduce search/typing effort. Also, OpenMW/TES3MP IDs.
 > Official plugins not included.
 #
 
